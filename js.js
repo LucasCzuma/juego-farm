@@ -26,7 +26,7 @@ fondo.imagen.addEventListener('load', function(){
 });
 
 var vaca = {
-    url: 'vaco.png',
+    url: 'vaca.png',
     cargaOK: false,
     cantidad: aleatorio(0, 10) //CANTIDAD DE VACAS QUE TENDRÁ EL CANVAS
 };
@@ -50,7 +50,7 @@ cerdo.imagen.addEventListener('load', function(){
 });
 
 var pollo = {
-    url: 'polla.png',
+    url: 'pollo.png',
     cargaOK: false,
     cantidad: aleatorio(0, 10) //CANTIDAD DE POLLOS QUE TENDRÁ EL CANVAS
 };
