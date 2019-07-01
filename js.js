@@ -62,7 +62,7 @@ pollo.imagen.addEventListener('load', function(){
 });
 
 var lobo = {
-    url: 'lobito.png',
+    url: 'cara_de_claudio_80.png',
     cargaOK: false,
     x: '',
     y: '',
