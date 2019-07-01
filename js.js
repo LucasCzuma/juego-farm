@@ -1,8 +1,4 @@
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 var canvas_fondo = document.getElementById('canvas_fondo');
 var canvas_context = canvas_fondo.getContext('2d');
 
